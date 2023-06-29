@@ -45,7 +45,7 @@ prettier --write <dir>
 
 ## Python 3
 
-Install Pylint and Black.
+Install Pylint and Black:
 
 ```
 pip3 install pylint black
